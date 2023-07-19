@@ -15,7 +15,7 @@ export default {
       },
 
       backgroundImage: {
-        'custom-image': "url('./src/assets/images/background.jpg')",
+        'custom-image': "url('../src/assets/images/background.jpg')",
       },
       fontFamily: {
         lumanosimo: ['Lumanosimo', 'cursive'],
